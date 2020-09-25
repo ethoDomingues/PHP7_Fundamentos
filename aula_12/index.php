@@ -24,8 +24,21 @@
 			echo "<br/>";
 			print_r($caminhao);
 			echo "<br/>";
-			print_r($pessoas)
-	
+			print_r($pessoas);
+			
+			//#### aula 13
+			echo "<br\>";
+			echo "<br\>";
+			echo count($pessoas);
+			echo "<br\>";
+			echo "<br\>";
+			
+			
+			
+			//#### foreach
+			foreach ($carros as $carro) {
+				echo "<br/>$carro\n";
+			}
 		?>
 	</body>
 </html>
