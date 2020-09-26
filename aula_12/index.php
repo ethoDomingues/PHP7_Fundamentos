@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<title>Aula 12 - Arrays</title>
+		<title>Aula 12 - Arrays #1</title>
 	</head>
 	<body>
 		<?php
